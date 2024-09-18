@@ -102,6 +102,32 @@ Para maximizar a eficácia, muitas organizações integram ferramentas e metodol
 - **Aplicação**: No desenvolvimento de software, a análise Bowtie pode ser usada para mapear cenários de risco relacionados a falhas técnicas, vulnerabilidades de segurança ou erros de projeto, ajudando a identificar controles para minimizar esses riscos.
 - **Benefícios**: Facilita a visualização clara dos riscos e controles em uma única representação gráfica, promovendo uma abordagem estruturada e fácil de entender.
 
+PMBOK® Guide – A Guide to the Project Management Body of Knowledge – Project Management Institute (PMI).
+Este guia fornece uma visão abrangente da gestão de projetos, incluindo um capítulo específico sobre a gestão de riscos.
 
+Software Risk Management – Barry W. Boehm.
+Este livro clássico explora as melhores práticas de gerenciamento de riscos em projetos de software.
+
+Risk Management for Software Projects – Elaine M. Hall.
+Explora as práticas de gestão de riscos específicas para projetos de software e oferece metodologias práticas.
+
+The Risk Management Handbook: A Practical Guide to Managing the Multiple Dimensions of Risk – David Hillson.
+Um guia prático que cobre as principais ferramentas e técnicas de gestão de riscos, com aplicações em diversas indústrias, incluindo o desenvolvimento de software.
+
+Artigos e Normas:
+ISO 31000:2018 Risk Management – Guidelines – International Organization for Standardization (ISO).
+Norma que estabelece diretrizes para a gestão de riscos em qualquer tipo de organização, incluindo desenvolvimento de software.
+
+An Empirical Study on Software Risk Management Practices – Byungjoo Ham, Taiwoo Park, and Dongsoo Kim.
+Publicado no Journal of Systems and Software, este artigo examina as práticas de gestão de riscos no desenvolvimento de software.
+
+Agile Risk Management: A Review and Research Agenda – Tom Bakker, Marijn Janssen.
+Artigo que investiga como a gestão de riscos é aplicada em metodologias ágeis.
+
+FMEA: A Key Process Improvement Tool – SAE International.
+Um estudo detalhado do FMEA, frequentemente usado para análise de riscos em engenharia e software.
+
+SWIFT: Structured What-If Technique – Health and Safety Executive (HSE).
+Documento que explica a técnica SWIFT, usada para identificar riscos potenciais em projetos.
 
 
