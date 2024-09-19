@@ -1,115 +1,62 @@
-# Gestão de Riscos em Projetos de Software
+# Gestão de Riscos no Desenvolvimento de Software
 
-## Introdução
+Este repositório aborda as principais estratégias e ferramentas de gestão de riscos aplicáveis ao desenvolvimento de software. A identificação e mitigação de riscos são cruciais para garantir a entrega de produtos de alta qualidade.
 
-A Gestão de Riscos é um componente essencial na execução de projetos de software, pois ajuda a identificar, avaliar e mitigar riscos que podem impactar o sucesso do projeto. Este repositório fornece um guia e ferramentas para implementar práticas eficazes de gestão de riscos.
+## Índice
 
-## Objetivos
+- [Tipos de Riscos]
+- [Ferramentas de Gestão de Riscos]
+- [Metodologias de Gestão de Riscos]
+- [Estratégias de Mitigação de Riscos]
 
-# Gestão de Riscos em Projetos de Software
 
-## Objetivos
-
-1. **Tipos de Riscos em Projetos de Software**
-2. **Técnicas de Identificação de Riscos**
-   - Análise SWOT
-   - Método Delphi
-   - Checklists
-3. **Estratégias de Mitigação de Riscos**
-   - Evasão
-   - Transferência
-   - Aceitação
-   - Mitigação
-4. **Ferramentas de Gestão de Riscos**
-   - Software e Metodologias
-
-## 1. Tipos de Riscos em Projetos de Software
+## Tipos de Riscos
 
 Os riscos em projetos de software podem ser classificados em várias categorias:
 
-- **Riscos Técnicos**: Relacionados a tecnologias e infraestrutura, como falhas de sistema ou incompatibilidade de software.
-- **Riscos de Projeto**: Envolvem aspectos como cronogramas e orçamentos, resultando em atrasos ou excedentes de custo.
-- **Riscos de Requisitos**: Decorrentes de requisitos mal definidos ou mudanças frequentes nos mesmos.
-- **Riscos de Equipe**: Relacionados à disponibilidade, habilidades e dinâmica da equipe.
+- **Riscos Técnicos**: Complexidade do software, novas tecnologias, problemas de integração e qualidade do código.
+- **Riscos Financeiros**: Custos excedentes, financiamento insuficiente e variações cambiais.
+- **Riscos de Cronograma**: Atrasos na entrega, dependências entre tarefas e alterações de escopo.
+- **Riscos de Recursos**: Falta de pessoal qualificado e disponibilidade de ferramentas.
+- **Riscos de Negócios**: Mudanças no mercado, concorrência e mudanças nas prioridades do negócio.
+- **Riscos de Comunicação**: Falta de comunicação clara e problemas de documentação.
 
-## 2. Técnicas de Identificação de Riscos
+## Ferramentas de Gestão de Riscos
 
-### Análise SWOT
+1. **Jira**: Para gerenciamento ágil de riscos com o plugin Risk Register.
+2. **Microsoft Project**: Para mapeamento de atividades e riscos associados.
+3. **RiskWatch**: Focada em avaliação e mitigação de riscos.
+4. **Qualys**: Identificação de vulnerabilidades de segurança.
+5. **RiskyProject**: Gestão de riscos em cronogramas e orçamentos.
+6. **SpiraPlan**: Gestão de riscos integrada ao ciclo de vida do desenvolvimento.
 
-A Análise SWOT é uma técnica que examina as Forças, Fraquezas, Oportunidades e Ameaças de um projeto, permitindo uma visão abrangente dos riscos internos e externos.
+## Metodologias de Gestão de Riscos
 
-### Método Delphi
-
-O Método Delphi envolve a consulta a um painel de especialistas para identificar e avaliar riscos em várias rodadas, garantindo uma análise mais robusta e consensual.
-
-### Checklists
-
-Checklists são listas de verificação que ajudam a assegurar que todos os riscos relevantes sejam considerados. Eles podem ser adaptados com base em experiências passadas e melhores práticas.
-
-## 3. Estratégias de Mitigação de Riscos
-
-### Evasão
-
-A estratégia de evasão consiste em evitar o risco antes que ele ocorra, por meio de:
-
-- Planejamento detalhado.
-- Prototipagem de soluções.
-- Seleção cuidadosa de tecnologias.
-
-### Transferência
-
-A transferência de risco implica delegar a responsabilidade a outra parte, através de:
-
-- Contratos com fornecedores.
-- Apólices de seguro.
-- Terceirização de atividades arriscadas.
-
-### Aceitação
-
-Aceitar um risco pode ser uma estratégia válida quando:
-
-- O custo de mitigação é maior que o impacto do risco.
-- A probabilidade de ocorrência é baixa.
-- O risco pode ser monitorado com eficácia.
-
-### Mitigação
-
-Mitigação envolve ações que reduzem a probabilidade ou impacto do risco, como:
-
-- Implementação de testes rigorosos.
-- Revisões de código periódicas.
-- Treinamento contínuo da equipe.
-
-## 4. Ferramentas de Gestão de Riscos
-
-Para auxiliar na gestão de riscos, diversas ferramentas e metodologias estão disponíveis:
-
-- **Software de Gestão de Projetos**: Ferramentas como Jira, Trello e Asana são úteis para rastrear e gerenciar riscos.
-- **Metodologias Ágeis**: Scrum e Kanban oferecem abordagens dinâmicas para a identificação e mitigação de riscos.
-- **Matriz de Risco**: Uma ferramenta visual que ajuda a classificar e priorizar riscos com base em sua probabilidade e impacto.
-
+1. **ISO 31000**: Diretrizes para gestão de riscos em todas as etapas do projeto.
+2. **FMEA**: Análise de modos de falha e seus efeitos.
+3. **Análise Qualitativa e Quantitativa**: Avaliação de riscos em termos descritivos e numéricos.
+4. **Metodologias Ágeis**: Integração da gestão de riscos em Scrum e Kanban.
+5. **PMBOK**: Guia para gerenciamento estruturado de projetos.
+6. **CMMI**: Modelo de maturidade para processos de gestão de riscos.
+7. **NIST SP 800-30**: Avaliação de riscos de segurança em sistemas de informação.
 
 ## Estratégias de Mitigação de Riscos
 
-1. **Evasão**: Evitar o risco antes que ele ocorra através de planejamento cuidadoso e validação de requisitos.
-2. **Transferência**: Alocar a responsabilidade do risco a outra parte, como fornecedores ou através de contratos de seguro.
-3. **Aceitação**: Aceitar o risco quando os custos de mitigação são superiores ao impacto do risco.
-4. **Mitigação**: Implementar ações que reduzam a probabilidade ou impacto do risco, como testes rigorosos e revisões de código.
+1. **Evasão**: Evitar o risco antes que ele ocorra.
+   - Planejamento cuidadoso e prototipagem.
 
-## Processo de Gestão de Riscos
+2. **Transferência**: Alocar a responsabilidade do risco a outra parte.
+   - Contratos, seguros e terceirização.
 
-1. **Identificação de Riscos**: Utilize brainstormings, entrevistas e análise de documentos para identificar riscos potenciais.
-2. **Avaliação de Riscos**: Classifique os riscos em termos de probabilidade e impacto, usando matrizes de risco.
-3. **Planejamento de Respostas**: Desenvolva planos de ação para cada risco, determinando as estratégias de mitigação adequadas.
-4. **Monitoramento e Revisão**: Acompanhe os riscos ao longo do projeto e revise as estratégias conforme necessário.
+3. **Aceitação**: Aceitar o risco quando o custo de mitigação é maior que o impacto.
+   - Monitoramento contínuo.
 
-## Ferramentas e Recursos
+4. **Mitigação**: Reduzir a probabilidade ou impacto do risco.
+   - Testes rigorosos, revisões de código e treinamento da equipe.
 
-- [Matiz de Risco](link-para-matriz): Ferramenta para classificar e priorizar riscos.
-- [Template de Registro de Riscos](link-para-template): Modelo para documentar riscos identificados.
-- [Software de Gestão de Projetos](link-para-software): Ferramentas recomendadas para acompanhar riscos em projetos.
 
-## Contribuições
+---
+
 
 Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se à vontade para abrir um *issue* ou submeter um *pull request*.
 
